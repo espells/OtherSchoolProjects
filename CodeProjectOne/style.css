@@ -65,7 +65,9 @@ body{
 .what_space{
   max-width: 100vw;
   height: 100vh;
-  background-color:#FFF9E5 ;
+  background-image: url("images/oldbikescopy1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .generalspace_info{
   /*padding-right: 10%;*/
